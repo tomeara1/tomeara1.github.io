@@ -2,5 +2,6 @@ body {
   background-color: hotpink;
 }
 
-p.italic {
+p {
     font-style: italic;
+  }
