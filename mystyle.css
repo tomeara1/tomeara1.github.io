@@ -1,3 +1,6 @@
 body {
   background-color: hotpink;
 }
+
+p.italic {
+    font-style: italic;
